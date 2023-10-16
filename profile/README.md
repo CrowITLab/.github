@@ -4,7 +4,7 @@ Bem-vindo à Crow IT no GitHub! 🚀
 
 ## Sobre Nós
 
-Na Crow IT, destacamo-nos na criação de soluções de software personalizadas, capazes de lidar com cargas de tráfego intensas. Nossa equipe dedicada possui uma ampla variedade de talentos e vasta experiência para atender às suas necessidades mais desafiadoras. Especializamo-nos na entrega de serviços de desenvolvimento de alta qualidade, incluindo aplicações web, desktop e móveis. Com foco sólido em suporte abrangente, abordamos desde infraestrutura e design UI/UX até gerenciamento de banco de dados, integrações e segurança.
+Na Crow IT, destacamo-nos na criação de soluções de software personalizados, capazes de lidar com cargas de tráfego intensas. Nossa equipe dedicada possui uma ampla variedade de talentos e vasta experiência para atender às suas necessidades mais desafiadoras. Especializamo-nos na entrega de serviços de desenvolvimento de alta qualidade, incluindo aplicações web, desktop e móveis. Com foco sólido em suporte abrangente, abordamos desde infraestrutura e design UI/UX até gerenciamento de banco de dados, integrações e segurança.
 
 ## Serviços Oferecidos
 
